@@ -2,7 +2,7 @@
   "name": "bom-or-nobom",
   "version": "2.0.0",
   "description": "ADD OR REMOVE BOM FOR WEBPACK V4",
-  "main": "bom-or-nobom.js.js",
+  "main": "bom-or-nobom.js",
   "dependencies": {
     "webpack": "^4.0.0"
   },
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aureolebigben/webpackv4-utf8-bom.git"
+    "url": "git+https://github.com/aureolebigben/bom-or-nobom.git"
   },
   "keywords": [
     "webpack",
@@ -22,5 +22,5 @@
   ],
   "author": "aureolebigben",
   "license": "MIT",
-  "homepage": "https://github.com/aureolebigben/webpackv4-utf8-bom#readme"
+  "homepage": "https://github.com/aureolebigben/bom-or-nobom#readme"
 }
