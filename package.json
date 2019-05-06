@@ -1,8 +1,8 @@
 {
-  "name": "webpackv4-utf8-bom",
+  "name": "bom-or-nobom",
   "version": "2.0.0",
-  "description": "ADD OR REMOVE BOM FOR WEBPACK",
-  "main": "webpackv4-utf8-bom.js",
+  "description": "ADD OR REMOVE BOM FOR WEBPACK V4",
+  "main": "bom-or-nobom.js.js",
   "dependencies": {
     "webpack": "^4.0.0"
   },
@@ -22,5 +22,5 @@
   ],
   "author": "aureolebigben",
   "license": "MIT",
-  "homepage": "https://github.com/aureolebigben/webpack-utf8-bom#readme"
+  "homepage": "https://github.com/aureolebigben/webpackv4-utf8-bom#readme"
 }
