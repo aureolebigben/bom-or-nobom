@@ -19,7 +19,7 @@ In webpack config file:
 var webpack = require('webpack');
 
 // import plugin
-var BomPlugin = require('webpackv4-utf8-bom');
+var BomPlugin = require('bom-or-nobom');
 
 module.exports = {
   ...
