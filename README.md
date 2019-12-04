@@ -1,4 +1,4 @@
-# webpackv4-utf8-bom
+# bom-or-nobom
 
 FORK OF [webpack-utf8-bom](https://github.com/cqqccqc/webpack-utf8-bom)
 ADD OR REMOVE BOM FOR WEBPACK
